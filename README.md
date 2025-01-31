@@ -10,7 +10,7 @@ Uma calculadora visual simples e interativa desenvolvida em Python utilizando a 
 *Tratamento de Erros:* Mensagens de erro para entradas inválidas (divisão por zero).
 
 ## Estrutura do código 
-click_botao(): Adiciona valores ao visor.
+clicar_botao(): Adiciona valores ao visor.
 
 limpar(): Limpa o visor.
 
